@@ -38,6 +38,20 @@ Implementation of canonical features in the in-game sprite.
 
 Custom slideshow for the intro and ending sequences.
 
+## Special Thanks
+
+@BowBirb: For convincing me to create a smelly scug.
+
+Vaal: For always being there for me and my Scentweaver updates and for playing Rain World with me.
+
+@TheGreenSly: For helping me out with the mod and always being willing to talk about gassy slugcats.
+
+@MiasmaNSFW: For making me realize I could make an actual mod of my beloved scug and for all the support given ever since.
+
+@SmellySnake: For helping me with the custom dialogue.
+
+And all my other friends who listened to my rants while I was developing this lol.
+
 
 ## Contributing
 
