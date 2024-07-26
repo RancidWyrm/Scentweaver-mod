@@ -42,7 +42,7 @@ Custom slideshow for the intro and ending sequences.
 
 @BowBirb: For convincing me to create a smelly scug.
 
-@Rottenvale_Vaal: For always being there for me and my Scentweaver updates and for playing Rain World with me.
+@Rottenvale_Vaal: For always motivating me to keep working on the mod and for always playing RW with me.
 
 @TheGreenSly: For helping me out with the mod and always being willing to talk about gassy slugcats.
 
