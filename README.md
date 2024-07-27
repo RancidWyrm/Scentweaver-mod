@@ -21,6 +21,12 @@ Download the mod files from the GitHub repository.
 
 Extract the files into your Rain World mods directory. (Steam\steamapps\common\Rain World\RainWorld_Data\StreamingAssets\mods)
 
+Install the mod requirments via steam workshop
+
+-https://steamcommunity.com/sharedfiles/filedetails/?id=2933196558 (Slugbase)
+
+-https://steamcommunity.com/workshop/filedetails/?id=2920541687 (Fisobs)
+
 Enable the mod through the Rain World remix menu.
 
 ## Known Bugs
